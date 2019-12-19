@@ -12,13 +12,13 @@
 #=======
 #end
 
-def introduction_with_language (name, language)
-  puts "salut"
+#def introduction_with_language (name, language)
+  #puts "salut"
   
->>>>>>> 999b3cdcfa315c84b1a281ef9ccfa5abc83b7359
-end
+#>>>>>>> 999b3cdcfa315c84b1a281ef9ccfa5abc83b7359
+#end
 
-
+def introduction 
 
 
 
