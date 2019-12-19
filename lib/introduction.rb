@@ -18,7 +18,10 @@
 #>>>>>>> 999b3cdcfa315c84b1a281ef9ccfa5abc83b7359
 #end
 
-def introduction 
+def introduction(name) 
+  puts "Hi, my name is #{name}."
+end
+
 
 
 
